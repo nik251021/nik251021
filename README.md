@@ -18,7 +18,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nik251021&layout=compact&theme=dark)
 
-![Green Activity Graph](https://ghchart.rushi.su/nik251021)
-
 ---
 **Контакты:** Telegram: @nik251021 | Discord: nik251020
